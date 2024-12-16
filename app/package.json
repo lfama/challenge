@@ -1,0 +1,17 @@
+{
+  "name": "challenge-11",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "challenge-11": "file:",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "pug": "^3.0.2"
+  }
+}
